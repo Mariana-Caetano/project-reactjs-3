@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import image from '../../assets/undraw_happy_feeling.svg';
 import Header from '../../components/Header/Header';
-import {FiTrash2, FiPlus } from 'react-icons/fi';
+import { FiTrash2, FiPlus } from 'react-icons/fi';
 import './comentarios.css'
 
 function Comentarios() {
